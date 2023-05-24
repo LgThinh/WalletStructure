@@ -1,0 +1,2 @@
+# WalletStructure
+Learn Golang
